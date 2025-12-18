@@ -1,0 +1,7 @@
+{
+  "name": "render-nodered",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node-red"
+  }
+}
